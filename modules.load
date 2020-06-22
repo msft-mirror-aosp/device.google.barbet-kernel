@@ -321,7 +321,6 @@ kernel/techpack/audio/asoc/platform_dlkm.ko
 kernel/techpack/audio/asoc/machine_dlkm.ko
 kernel/net/bridge/netfilter/ebtables.ko
 kernel/net/bridge/netfilter/ebtable_broute.ko
-kernel/net/bridge/br_netfilter.ko
 kernel/net/sctp/sctp.ko
 kernel/net/sctp/sctp_diag.ko
 kernel/net/qrtr/qrtr.ko
